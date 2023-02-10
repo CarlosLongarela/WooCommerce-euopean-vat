@@ -5,4 +5,4 @@
 
 * Manage EU VAT in WooCommerce (and valid EU VAT Number) with the plugin [EU/UK VAT Manager for WooCommerce](https://wpfactory.com/item/eu-vat-for-woocommerce/)
 
-
+* [VAT Number Oficial Validation](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
